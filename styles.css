@@ -1,0 +1,62 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+    background: grey;
+}
+.maincontent {
+    background: grey;
+    margin: 0;
+}
+.post-wrapper {
+    width: 400px;
+    margin: auto;
+    background-color: white;
+}
+
+img {
+    width: 400px;
+}
+
+.post-header {
+    display: flex;
+    flex-direction: row;
+}
+
+.post-html-icon {
+    margin: 15px 5px 10px 10px;
+}
+
+.post-name {
+    width: 85%;
+    margin-top: 10px;
+    font-size: small;
+}
+.post-title {
+    font-size: small;
+}
+.post-vertical-ellipsis {
+    margin-top: 15px;
+}
+
+.post-icons {
+    display: flex;
+    font-size: 25px;
+}
+
+.post-options {
+    width: 90%;
+    margin-top: 5px;
+}
+.post-bookmark {
+    margin: 10px;
+}
+.post-footer {
+    padding: 10px;
+}
+.post-likes {
+    font-size: small;
+}
+.photo-description{
+    font-size: small;
+}
